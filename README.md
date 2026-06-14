@@ -234,18 +234,6 @@ Enhanced timer interrupt handling for scheduling decisions.
 
 ---
 
-# Sample Metrics
-
-| Metric  | Description             |
-| ------- | ----------------------- |
-| CT      | Completion Time         |
-| TAT     | Turnaround Time         |
-| WT      | Waiting Time            |
-| Avg TAT | Average Turnaround Time |
-| Avg WT  | Average Waiting Time    |
-
----
-
 # Learning Outcomes
 
 Through this project, I gained practical experience in:
