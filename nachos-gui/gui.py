@@ -5,9 +5,9 @@ import re
 import os
 
 # Paths (adjust if your NachOS installation is different)
-NACHOS_DIR = "/home/avinash/nachos-3.4/code/threads"
-CONFIG_PATH = "/home/avinash/nachos-3.4/code/config.txt"
-PROCESSES_PATH = "/home/avinash/nachos-3.4/code/processes.txt"
+NACHOS_DIR = "..../nachos-3.4/code/threads"
+CONFIG_PATH = "..../nachos-3.4/code/config.txt"
+PROCESSES_PATH = "..../nachos-3.4/code/processes.txt"
 
 class NachosGUI:
     def __init__(self, root):
